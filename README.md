@@ -1,7 +1,7 @@
 # Treinamento FIWARE Lab @ RNP
 ## Desenvolvimento de aplicações com FIWARE
 
-Os passos das etapas práticas foram disponibilizados no atual repositório em arquivo `.ipynb` que podem ser executados utilizando a ferramenta **Jupyter Notebook**.
+Os passos das etapas práticas foram disponibilizados no atual repositório em arquivo `.ipynb` que podem ser executados utilizando a ferramenta **Jupyter Notebook** e *scripts python*.
 
 Para isso, tendo em um ambiente com Python instalado, instale as seguintes depências usando o `pip`:
 - **Jupyter** para visualização e execução dos passos:
@@ -16,6 +16,12 @@ pip install requests
 ```
 pip install fiotclient
 ```
+
+Para executar os arquivos do **jupyter**, clonado o repositório ou baixado o arquivo desejado, acesse a pasta e, com a ferramenta instalada, execute:
+```
+jupyter notebook
+```
+A ferramenta será aberta no navegador e, para executar cada arquivo desejado, basta clicar nele e executar os passos que contém.
 
 #### Implantação do ambiente
 
