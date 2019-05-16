@@ -67,16 +67,6 @@
 'Fiware-ServicePath': '/dimap'
 ```
 
-### Listar entidades
-
-`GET` http://fiwarelab.rnp.br:8004/v2/entities
-
-**Headers**
-```javascript
-'Fiware-Service': 'UFRN'
-'Fiware-ServicePath': '/dimap'
-```
-
 ### Filtrar entidades
 
 Por tipo

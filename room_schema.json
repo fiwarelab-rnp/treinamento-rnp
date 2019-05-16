@@ -1,0 +1,12 @@
+{
+  "id": "[ENTITY_ID]",
+  "type": "[ENTITY_TYPE]",
+  "temperature": {
+    "value": "",
+    "type": "Float"
+  },
+  "pressure": {
+    "value": "",
+    "type": "Integer"
+  }
+}
